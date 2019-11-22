@@ -1,0 +1,21 @@
+header {
+    background : #F0E6F5;
+    
+}
+
+footer {
+    background : #F0E6F5;
+    color:grey;
+    
+}
+
+i {
+    font-size: 50px;
+    color:grey;
+}
+
+.building {
+    width : 580px;
+    height : 580px;
+}
+
