@@ -1,3 +1,11 @@
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
 header {
     background : #F0E6F5;
     
@@ -9,13 +17,40 @@ footer {
     
 }
 
+a
+{
+color: grey;
+text-decoration: none;
+}
+
+a:hover{
+    color:purple;
+}
+
 i {
     font-size: 50px;
     color:grey;
+} 
+
+
+
+
+.navbar-nav {
+    color:grey;
 }
+
 
 .building {
     width : 580px;
     height : 580px;
 }
 
+
+.fa-space-shuttle {
+    font-size:45px;
+    background-position:left;
+}
+
+.card-title {
+    color:purple;
+}
