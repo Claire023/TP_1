@@ -8,6 +8,8 @@ html{
 
 header {
     background : #F0E6F5;
+   
+    
     
 }
 
@@ -32,11 +34,17 @@ i {
     color:grey;
 } 
 
+i:hover {
+    color:purple;
+}
+
 
 
 
 .navbar-nav {
     color:grey;
+    
+    
 }
 
 
